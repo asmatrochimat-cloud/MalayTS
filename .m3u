@@ -223,27 +223,11 @@ https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
-https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
-https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
-
 #EXTINF:-1 group-title="Malaysia" tvg-id="TVIKIM" tvg-name="TVIKIM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
@@ -254,17 +238,11 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="Alhijrahtv " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",Alhijrahtv
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1764508950-6cd3ae11d8c14600927f2f4d128f75c9-0-8c5513c46a6616f765272f3be0800114&auth_key=1764508950-6cd3ae11d8c14600927f2f4d128f75c9-0-0df1e6247acec35370480a2ebef77c75
+#EXTINF:-1  tvg-id="97084" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318748'&EntityType='Item'&EntityId='97084'&Width=636&Height=250" group-title="Malaysia", Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="usimtv " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",usim tv
-https://live.mana2.my/UsimTV/tracks-v3a1/mono.m3u8?token=1764510618-2a2c2a2b1eab4eda83e4d27e2aa89e75-0-ca6f9eae41a6472e0a4ee4fa2c91f00c&auth_key=1764510618-2a2c2a2b1eab4eda83e4d27e2aa89e75-0-37d8438651f2f0aeb12dd8ba2d2bf463
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="selangortv " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",selangor tv
-https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1764510741-ac08b416cd384804879a4a1cc5c397ec-0-e13a6ab84f74a9079dfe615bc69ea9f5&auth_key=1764510741-ac08b416cd384804879a4a1cc5c397ec-0-f7c0392f881b147adb0d1f9889a0471c
-
-#EXTINF:-1 group-title="Malaysia" tvg-id="suketv " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",suke tv
-https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1764510833-2bbc9f27ba81423f83dab6554939c11c-0-6ce5cdf584786adab11d0af946739b62&auth_key=1764510833-2bbc9f27ba81423f83dab6554939c11c-0-71e20e9f7453fcf5f052a19bc2b479a6
 
 
 <============================== Brunei ======================================>
@@ -287,13 +265,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
 
-
-
-
-#EXTINF:-1  tvg-id="97084" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318748'&EntityType='Item'&EntityId='97084'&Width=636&Height=250" group-title="Malaysia", Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
 
 
